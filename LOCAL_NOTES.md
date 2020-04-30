@@ -7,6 +7,7 @@ ng serve
 # Directives
 ```
 ng g d better-highlight/better-highlight --skipTests true
+ng g d unless --skipTests true
 ```
 
 # Git
