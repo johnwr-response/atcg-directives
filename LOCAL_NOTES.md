@@ -4,6 +4,11 @@ npm install
 ng serve
 ```
 
+# Directives
+```
+ng g d better-highlight/better-highlight --skipTests true
+```
+
 # Git
 ```
 git init
